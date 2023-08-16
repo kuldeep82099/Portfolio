@@ -100,10 +100,10 @@ body, h1, h2, h3, p, ul, li {
 
 }
 .about-img img{
-    max-width: 530px;
-    height: 540px;
-    width:100%;
-    border-radius:5px;
+     max-width: 450px;
+    height: 617px;
+    width: 230%;
+    border-radius: 8px;
 }
 .about-text h2{
     font-size: var(--h2-font);
